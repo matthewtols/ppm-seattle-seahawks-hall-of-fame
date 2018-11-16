@@ -3,6 +3,7 @@ html {
   background-color: white;
   border: 3px solid red;
   border-radius: 30px;
+  margin: auto;
 }
 
 .heading {
