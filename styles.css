@@ -27,8 +27,12 @@ table {
 
 td {
   padding: 3px;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 
 th {
   padding: 3px;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
