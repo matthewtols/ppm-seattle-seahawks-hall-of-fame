@@ -19,3 +19,12 @@ html {
   color: black;
   letter-spacing: 2px;
 }
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 3px;
+}
